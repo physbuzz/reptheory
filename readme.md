@@ -1,5 +1,8 @@
+Note: The bulk of these notes were written in 2018, I am reviewing them and expanding on them.
+
 Goals for These Rep Theory Notes
 ===
+
 
 There are a few things I want to do related to the basic representation theory presented in these notes.
 
